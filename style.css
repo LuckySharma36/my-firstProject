@@ -1,0 +1,84 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    padding: 20px;
+    border-bottom: 1px solid gray;
+}
+
+nav h2{
+    color: #2196f3;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+#Home {
+    padding: 100px 20px;
+    text-align: center;
+}
+
+#Home h1{
+    font-size: 50px;
+}
+
+#Home h2{
+    color: #2196f3;
+}
+
+#Home p{
+    color: gray;
+}
+
+button {
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+section{
+    padding: 60px 20px;
+
+}
+
+section h2{
+    color: #2196f3;
+}
+
+section p{
+    color: lightgray;
+}
+
+#Skills h3{
+    background-color: #222;
+    padding: 20px;
+    width: 200px;
+    border: 1px solid gray;
+}
+
+#projects h3{
+    color: white;
+    background-color: #222;
+    padding: 20px;
+}
+
+#projects a{
+    color: #2196f3;
+}
+
+section a{
+    color:#2196f3;
+}
+
+section a:hover{
+    color: white;
+}
