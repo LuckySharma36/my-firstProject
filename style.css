@@ -19,6 +19,15 @@ nav a{
     margin: 10px;
 }
 
+section a{
+    display: inline;
+    padding: 10px 20px;
+    background-color: #2196f3;
+    color : white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
 #Home {
     padding: 100px 20px;
     text-align: center;
@@ -34,6 +43,16 @@ nav a{
 
 #Home p{
     color: gray;
+}
+
+#projects h3 a{
+    color: white;
+    background-color: #222;
+}
+
+#Resume p a{
+    background-color:azure;
+    color: black;
 }
 
 button {
@@ -75,9 +94,7 @@ section p{
     color: #2196f3;
 }
 
-section a{
-    color:#2196f3;
-}
+
 
 section a:hover{
     color: white;
