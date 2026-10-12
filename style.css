@@ -78,10 +78,7 @@ section p{
 }
 
 #Skills h3{
-    background-color: #222;
-    padding: 20px;
-    width: 200px;
-    border: 1px solid gray;
+    
 }
 
 #projects h3{
@@ -98,4 +95,32 @@ section p{
 
 section a:hover{
     color: white;
+}
+
+#Contact p a{
+    background-color: black;
+}
+
+#AboutmeDiv {
+    background-color: #222;
+    height: 100px;
+    width: 800px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+#AboutmeDiv p{
+    size: 25px;
+    padding-top: 9px;
+    padding-left:13px;
+}
+
+#Skills .skillsSection{
+    background-color: #222;
+    padding: 20px;
+    margin: 10px;
+    height: 80px;
+    width: 700px;
+    border: 1px solid gray;
+    border-radius: 20px;
 }
